@@ -9,6 +9,9 @@ Open `index.html` in Chrome, or run `python -m http.server 8000` in this folder 
 3. Select Framework Preset: Other; leave Build Command blank and set Output Directory to `.`.
 4. Deploy. Use the generated `.vercel.app` URL in your assessment document.
 
+
+Live Link: https://careops-tpm-prototype.vercel.app
+
 ## Implemented demo workflows
 - Overview dashboard with capacity, pending temperature and doctor-round counts, discharge queue and workflow completion.
 - Patient registration with active capacity guard at 74.
